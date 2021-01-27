@@ -1,0 +1,26 @@
+{
+  "name": "cupload",
+  "version": "0.1.10",
+  "description": "ToC端上传组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "上传",
+    "图片上传",
+    "文件上传",
+    "上传压缩",
+    "压缩",
+    "限制图片宽高"
+  ],
+  "author": "jianhui.jia",
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^3.26.16",
+    "lrz": "^4.9.41",
+    "react": "^16.8.6",
+    "react-image-lightbox": "^5.1.1",
+    "use-debounce": "^3.4.0"
+  }
+}
